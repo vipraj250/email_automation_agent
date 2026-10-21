@@ -1,0 +1,7 @@
+.venv/
+venv/
+credentials.json
+token.json
+processed_ids.txt
+__pycache__/
+local_settings.py

@@ -1,0 +1,4 @@
+ALLOWED_SENDERS = {
+    "person1@example.com",
+    "person2@example.com",
+}
